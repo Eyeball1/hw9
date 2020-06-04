@@ -1,6 +1,7 @@
 # Unit 11 Express Homework: Note Taker
 
-  * Created by Erik Adames
+  * Created by davidmichaelhughey@gmail.com
+
 
   * Github Repo Link: https://github.com/Eyeball1/hw9
   * Heroku Live Link: wip
